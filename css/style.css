@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows&family=Pixelify+Sans:wght@400..700&display=swap');
+body{
+    background-color: pink;
+    color:rgb(113, 89, 37);
+    background-image: url(../img/broccoli.jpeg);
+}
+
+h1{
+    color: rgb(45, 134, 31);
+    background-color: purple;
+    width: 40%;
+    font-family: "Pixelify Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    color: yellow;
+    margin: auto;
+}
